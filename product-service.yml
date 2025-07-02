@@ -1,0 +1,6 @@
+product:
+  service:
+    ordering:
+      featureA: ENABLED
+      featureB: DISABLED
+      priority: HIGH
